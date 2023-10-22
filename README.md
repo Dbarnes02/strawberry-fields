@@ -1,2 +1,2 @@
 # strawberry-fields
-Final capstone web design project with custom booking system &amp; redesign
+Final capstone web design project in Wordpress with custom booking system &amp; redesign
